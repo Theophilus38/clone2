@@ -108,92 +108,149 @@ i {
 
 @media (max-width:768px) {
     .bodyyy {
-      width: 460.8px;
-      height: 500px;
+      width: 80%;
+      height: 470px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
     }
     .div-cover {
-      width: 308.7px;
-      height: 200px;
+      width: 80%;
+      height: 390px;
+      display: flex;
+      justify-content: center;
+      align-items:center;
     }
     .first {
-      width: 154.35px;
-      height: 200px;
+      width: 50%;
+      height: 390px;
     }
 
     .second {
-        width: 154.35px;
-        height: 200px;
+        width: 50%;
+        height: 390px;
     }
 
     .second .pp1 {
         font-size: 1em;
+        font-size: 15px;
+        margin-left: 12px;
     }
 
     .second .pp2 {
         font-size: 1em;
+        margin-left: 12px;
     }
 
     .second .pp3 {
         font-size: 1em;
+        margin-left: 12px;
+    }
+
+    .second .pp4 {
+        font-size:0.7em;
+        font-size: 15px;
+        margin-left: 12px;
+    }
+
+    .second .pp44 {
+        font-size: 0.7em;
+        margin-left: 12px;
+        font-size: 15px;
+        margin-bottom: 25px;
     }
 
     .second .pp5 {
-        font-size: 1em;
+        font-size: 1.5em;
+        font-size: 20px;
+        margin-left: 12px;
+    }
+
+    .second .pp6 {
+        font-size: 0.6em;
     }
 
     .bb1 {
-        width: 100px;
+        width: 160px;
         border-radius:3px;
-        height: 25px;
+        height: 29px;
+        margin-left: 15px;
+        font-size: 12px;
     }
 
     i {
-        font:7px;
+        font:9px;
     }
 }
 
 @media (max-width:576px) {
     .bodyyy {
-      width: 345.6px;
-      height: 300px;
+      width: 80%;
+      height: 350px;
+      display: flex;
+      justify-content: center;
+      align-items:center
     }
     .div-cover {
-      width: 114.048px;
-      height: 100px;
+      width: 80%;
+      height: 200px;
+      display: flex;
+      justify-content: center;
     }
     .first {
-      width: 57.034px;
-      height: 100px;
+      width: 60%;
+      height: 200px;
     }
 
     .second {
-        width: 57.024px;
-        height: 100px;
+        width: 60%;
+        height: 200px;
     }
 
     .second .pp1 {
         font-size: 0.5em;
+        margin-left: 10px;
     }
 
     .second .pp2 {
         font-size: 0.5em;
+        margin-left: 10px;
     }
 
     .second .pp3 {
         font-size: 0.5em;
+        margin-left: 10px;
+    }
+
+    .second .pp4 {
+        font-size: 0.4em;
+        margin-left: 10px;
+    }
+
+    .second .pp44 {
+        font-size:0.4em;
+        margin-left: 10px;
+        margin-bottom: 15px;
     }
 
     .second .pp5 {
-        font-size: 0.5em;
+        font-size: 1em;
+        margin-left: 10px;
+    }
+
+    .second .pp6 {
+        font-size: 0.3em;
     }
 
     .bb1 {
-        width: 50px;
+        width: 100px;
         border-radius:2px;
-        height: 12px;
+        height: 20px;
+        margin-left: 10px;
+        font-size: 9px;
     }
 
     i {
-        font:5px;
+        font-size: 8px;
     }
 }

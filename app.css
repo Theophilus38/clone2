@@ -1,0 +1,107 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items:center
+}
+
+.bodyyy {
+    background-color:#829279;
+    width: 60%;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.div-cover {
+    width: 67%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.first {
+    width: 50%;
+    height: 400px;
+    display: flex;
+}
+
+.second {
+    width: 50%;
+    height: 400px;
+    background-color: #dee4f9; 
+    border-top-right-radius: 5px; 
+    border-bottom-right-radius: 5px;
+}
+
+.second .pp1 {
+    margin-left: 40px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.second .pp2 {
+    margin-left: 40px;
+    font-family: "Playfair Display", serif;
+    font-size:25px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.second .pp3 {
+    margin-left: 40px;
+    font-family: "Playfair Display", serif;
+    font-size:25px;
+    margin-top: 0;
+}
+
+.second span {
+    font-weight: 800;
+}
+
+.second .pp4 {
+    margin-left: 40px;
+    font-family: "Playfair Display", serif;
+    margin-top: 0;
+    margin-bottom: 7px;
+}
+
+.second .pp44 {
+    margin-left: 40px;
+    font-family:"Playfair Display", serif;
+    margin-top: 0;
+    margin-bottom: 35px;
+}
+
+.pp5, .pp6 {
+    display: inline;
+}
+
+.second .pp5 {
+    margin-left: 40px;
+    color:#d65c36;
+    font-size: 25px; 
+    font-family: "Playfair Display", serif;  
+}
+
+.second .pp6 {
+    font-weight: 800;
+}
+
+.bb1 {
+    background-color:#d65c36;
+    margin-left: 40px;
+    width: 200px;
+    display: block;
+    margin-top: 20px;
+    height: 45px;
+    border: 0;
+    border-radius: 5px;
+}
+
+i {
+    font-size: 15px;
+    margin: 7px;
+}

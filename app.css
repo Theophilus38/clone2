@@ -105,3 +105,95 @@ i {
     font-size: 15px;
     margin: 7px;
 }
+
+@media (max-width:768px) {
+    .bodyyy {
+      width: 460.8px;
+      height: 500px;
+    }
+    .div-cover {
+      width: 308.7px;
+      height: 200px;
+    }
+    .first {
+      width: 154.35px;
+      height: 200px;
+    }
+
+    .second {
+        width: 154.35px;
+        height: 200px;
+    }
+
+    .second .pp1 {
+        font-size: 1em;
+    }
+
+    .second .pp2 {
+        font-size: 1em;
+    }
+
+    .second .pp3 {
+        font-size: 1em;
+    }
+
+    .second .pp5 {
+        font-size: 1em;
+    }
+
+    .bb1 {
+        width: 100px;
+        border-radius:3px;
+        height: 25px;
+    }
+
+    i {
+        font:7px;
+    }
+}
+
+@media (max-width:576px) {
+    .bodyyy {
+      width: 345.6px;
+      height: 300px;
+    }
+    .div-cover {
+      width: 114.048px;
+      height: 100px;
+    }
+    .first {
+      width: 57.034px;
+      height: 100px;
+    }
+
+    .second {
+        width: 57.024px;
+        height: 100px;
+    }
+
+    .second .pp1 {
+        font-size: 0.5em;
+    }
+
+    .second .pp2 {
+        font-size: 0.5em;
+    }
+
+    .second .pp3 {
+        font-size: 0.5em;
+    }
+
+    .second .pp5 {
+        font-size: 0.5em;
+    }
+
+    .bb1 {
+        width: 50px;
+        border-radius:2px;
+        height: 12px;
+    }
+
+    i {
+        font:5px;
+    }
+}
